@@ -1,0 +1,23 @@
+{
+  "name": "winston-browser",
+  "version": "1.0.0",
+  "description": "Replace standard winston with this module in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicroMinion/winston-browser.git"
+  },
+  "keywords": [
+    "winston",
+    "browser"
+  ],
+  "author": "Thomas Delaet <thomas@delaet.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MicroMinion/winston-browser/issues"
+  },
+  "homepage": "https://github.com/MicroMinion/winston-browser#readme"
+}
